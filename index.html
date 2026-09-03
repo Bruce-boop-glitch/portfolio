@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>廖小龙 Bruce Liao · 室内设计师 | 个人简历</title>
+<meta name="description" content="廖小龙 Bruce Liao - 室内设计师 / 主案设计师，10年从业经验，专注于高端住宅、样板间与商业空间。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" type="image/jpeg" href="assets/avatar.jpg">
+</head>
+<body>
+
+<!-- ========== 导航 ========== -->
+<nav class="nav">
+  <a href="#hero" class="nav-brand">BRUCE.LIAO</a>
+  <div class="nav-links">
+    <a href="#about">ABOUT</a>
+    <a href="#experience">EXPERIENCE</a>
+    <a href="#skills">SKILLS</a>
+    <a href="#portfolio">PORTFOLIO</a>
+    <a href="#hobbies">HOBBIES</a>
+    <a href="#contact">CONTACT</a>
+  </div>
+</nav>
+
+<!-- ========== Hero ========== -->
+<section id="hero" class="hero">
+  <div class="hero-inner">
+    <div class="hero-avatar-wrap">
+      <img class="hero-avatar" src="assets/avatar.jpg" alt="廖小龙">
+    </div>
+    <div class="hero-info">
+      <div class="hero-pretitle">JOB-SEEKING RESUME · 个人简介</div>
+      <h1 class="hero-name">
+        <span class="zh">廖小龙</span>
+        <span class="en">BRUCE LIAO</span>
+      </h1>
+      <div class="hero-title">室内设计师 · 主案设计师</div>
+      <div class="hero-title-en">INTERIOR DESIGNER · DESIGN LEAD</div>
+      <div class="hero-meta">
+        <span id="meta-years">从业 10 年</span>
+        <span id="meta-city">深圳 · 罗湖</span>
+        <span id="meta-cat">高端住宅 / 样板间 / 商业</span>
+      </div>
+      <div class="hero-actions">
+        <a href="#portfolio" class="btn btn-primary">VIEW PORTFOLIO →</a>
+        <a href="#contact" class="btn btn-ghost">GET IN TOUCH</a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-scroll-hint">SCROLL</div>
+</section>
+
+<!-- ========== About + Education ========== -->
+<section id="about">
+  <div class="section-title">01 / ABOUT</div>
+  <h2 class="section-h2 reveal"><span class="zh">关于我</span>ABOUT ME</h2>
+  <div class="about-grid">
+    <div>
+      <div class="about-bio" id="bio"></div>
+      <div class="about-tags" id="tags"></div>
+    </div>
+    <div class="education-card" id="edu-card"></div>
+  </div>
+</section>
+
+<!-- ========== Experience ========== -->
+<section id="experience">
+  <div class="section-title">02 / EXPERIENCE</div>
+  <h2 class="section-h2 reveal"><span class="zh">工作经历</span>WORK EXPERIENCE</h2>
+  <div class="timeline" id="timeline"></div>
+</section>
+
+<!-- ========== Skills ========== -->
+<section id="skills">
+  <div class="section-title">03 / SKILLS</div>
+  <h2 class="section-h2 reveal"><span class="zh">专业技能</span>PROFESSIONAL SKILLS</h2>
+  <div class="skills-grid">
+    <div>
+      <div class="skills-block">
+        <h3>SOFTWARE · 软件技能</h3>
+        <div class="skill-list" id="skill-list"></div>
+      </div>
+    </div>
+    <div>
+      <div class="skills-block">
+        <h3>ABILITIES · 设计能力</h3>
+        <div class="abilities" id="abilities"></div>
+      </div>
+      <div class="skills-block">
+        <h3>CERTIFICATES · 专业证书</h3>
+        <div class="certs" id="certs"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== Portfolio ========== -->
+<section id="portfolio">
+  <div class="section-title">04 / PORTFOLIO</div>
+  <h2 class="section-h2 reveal"><span class="zh">作品集 · 22 个项目</span>SELECTED PROJECTS</h2>
+  <div class="filter-bar" id="filter-bar"></div>
+  <div class="portfolio-grid" id="portfolio-grid"></div>
+</section>
+
+<!-- ========== Hobbies ========== -->
+<section id="hobbies">
+  <div class="section-title">05 / HOBBIES</div>
+  <h2 class="section-h2 reveal"><span class="zh">业余爱好</span>HOBBIES &amp; INTERESTS</h2>
+  <div class="hobbies-grid" id="hobbies-grid"></div>
+</section>
+
+<!-- ========== Contact ========== -->
+<section id="contact">
+  <div class="section-title">06 / CONTACT</div>
+  <h2 class="section-h2 reveal"><span class="zh">联系我</span>GET IN TOUCH</h2>
+  <div class="contact-grid">
+    <div class="contact-list">
+      <div class="contact-item">
+        <div class="contact-icon">✉</div>
+        <div class="contact-info">
+          <div class="contact-label">EMAIL · 邮箱</div>
+          <div class="contact-value" id="contact-email"></div>
+        </div>
+      </div>
+      <div class="contact-item">
+        <div class="contact-icon">💬</div>
+        <div class="contact-info">
+          <div class="contact-label">WECHAT · 微信</div>
+          <div class="contact-value" id="contact-wechat"></div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="contact-qr" id="contact-qr-wrap">
+        <img id="contact-qr-img" src="assets/qrcode.png" alt="扫码访问网站" onerror="this.parentNode.style.display='none'">
+      </div>
+      <div class="contact-qr-caption" id="contact-qr-caption">SCAN · 扫码访问</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-name">BRUCE.LIAO</div>
+  <div class="footer-text">© 2026 廖小龙 · 个人简历 · 由赛博朋克风格呈现 · Built with passion</div>
+</footer>
+
+<!-- ========== 项目详情弹窗 ========== -->
+<div class="modal" id="modal" aria-hidden="true">
+  <div class="modal-content">
+    <button class="modal-close" id="modal-close" aria-label="关闭">×</button>
+    <div class="modal-header">
+      <h2 class="modal-title" id="modal-title"></h2>
+      <div class="modal-meta" id="modal-meta"></div>
+    </div>
+    <div class="modal-desc" id="modal-desc"></div>
+    <div class="modal-extra" id="modal-extra"></div>
+    <div class="modal-tabs" id="modal-tabs"></div>
+    <div class="modal-gallery" id="modal-gallery"></div>
+  </div>
+</div>
+
+<!-- ========== 图片灯箱 ========== -->
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <div class="lightbox-nav lightbox-prev" id="lb-prev">‹</div>
+  <img id="lightbox-img" alt="">
+  <div class="lightbox-nav lightbox-next" id="lb-next">›</div>
+  <div class="lightbox-counter" id="lb-counter"></div>
+</div>
+
+<!-- ========== 数据与脚本 ========== -->
+<script src="assets/js/profile.js"></script>
+<script src="assets/js/projects.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>

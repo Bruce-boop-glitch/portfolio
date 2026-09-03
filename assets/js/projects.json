@@ -1,0 +1,1964 @@
+[
+  {
+    "id": "canteen-上海张江中国平安总部食堂改造",
+    "category": "员工食堂",
+    "categoryKey": "canteen",
+    "categoryLabel": "员工食堂 CANTEEN",
+    "name": "上海张江中国平安总部食堂改造",
+    "city": "上海",
+    "area": "6180㎡",
+    "areaNum": 6180,
+    "year": "2026",
+    "yearNum": 2026,
+    "type": "企业员工食堂",
+    "style": "民国复古",
+    "role": "全案设计",
+    "description": "方案的设计目标是通过对一层空间的整体改造，打造一个既能满足员工日常就餐需求，\n又能承载商务接待、团队活动等多重功能的复合型餐饮空间，提升员工归属感与企业形象。",
+    "cover": "assets/images/canteen/上海张江中国平安总部食堂改造/render/01.jpg",
+    "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/01.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/01.jpg",
+          "name": "0001(1)"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/02.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/02.jpg",
+          "name": "0002"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/03.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/03.jpg",
+          "name": "0003"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/04.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/04.jpg",
+          "name": "0004"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/05.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/05.jpg",
+          "name": "0005"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/06.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/06.jpg",
+          "name": "2方案一"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/07.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/07.jpg",
+          "name": "2方案二"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/08.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/08.jpg",
+          "name": "641cc78f04040470348de2dc99246ea9"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/09.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/09.jpg",
+          "name": "a7af5eee312ce36abc47536dc4205a59"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/10.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/10.jpg",
+          "name": "Camera001_3-13餐厅.0000 拷贝"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/11.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/11.jpg",
+          "name": "Corona Camera001_3-13餐厅.0000 拷贝"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/12.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/12.jpg",
+          "name": "卫生间"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/13.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/13.jpg",
+          "name": "方案一"
+        },
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/render/14.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/render/14.jpg",
+          "name": "方案二"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/canteen/上海张江中国平安总部食堂改造/plan/01.jpg",
+          "thumb": "assets/thumbs/canteen/上海张江中国平安总部食堂改造/plan/01.jpg",
+          "name": "2026.03.27彩平图"
+        }
+      ]
+    },
+    "imageCount": 15,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "sales-武汉观湖园城市展厅设计",
+    "category": "售楼部",
+    "categoryKey": "sales",
+    "categoryLabel": "售楼部 SALES CENTER",
+    "name": "武汉观湖园城市展厅设计",
+    "city": "武汉",
+    "area": "120㎡",
+    "areaNum": 120,
+    "year": "2026年",
+    "yearNum": 2026,
+    "type": "售楼处",
+    "style": "轻奢度假风",
+    "role": "全案设计",
+    "description": "围绕“ 微空间” 的场域性、围界性、空间性、特质性， 将自然渗透进建筑， 让室内外空间独\n立而又相互联系。海派与自然的串联， 是一种对传统与现代、自然与奢华之间平衡的探索。",
+    "cover": "assets/images/sales/武汉观湖园城市展厅设计/render/01.jpg",
+    "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/real/01.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/real/01.jpg",
+          "name": "1"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/real/02.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/real/02.jpg",
+          "name": "2"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/real/03.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/real/03.jpg",
+          "name": "3"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/real/04.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/real/04.jpg",
+          "name": "4"
+        }
+      ],
+      "render": [
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/01.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/01.jpg",
+          "name": "体验区"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/02.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/02.jpg",
+          "name": "前台"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/03.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/03.jpg",
+          "name": "外观夜景"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/04.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/04.jpg",
+          "name": "外观日景"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/05.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/05.jpg",
+          "name": "沙盘区"
+        },
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/render/06.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/render/06.jpg",
+          "name": "洽谈区"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/sales/武汉观湖园城市展厅设计/plan/01.jpg",
+          "thumb": "assets/thumbs/sales/武汉观湖园城市展厅设计/plan/01.jpg",
+          "name": "沿江接待中心装修平面图(1)-1"
+        }
+      ]
+    },
+    "imageCount": 11,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-上海杂物社",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "上海杂物社",
+    "city": "上海",
+    "area": "307㎡",
+    "areaNum": 307,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "商业店铺",
+    "style": "现代潮玩",
+    "role": "全案设计",
+    "description": "本项目为上海静安大悦城九木杂物社 2.0 门店，以治愈文创为核心。\n空间采用木饰面、杜邦纸等材质，色调明快柔和。规划中心展示区、零售区与收银定制区，\n动线流畅。特色中央装置强化 IP 展示，兼顾商品陈列与社交打卡，打造兼具零售体验与情绪价值的青年文创社交空间。",
+    "cover": "assets/images/commercial/上海杂物社/plan/01.jpg",
+    "thumb": "assets/thumbs/commercial/上海杂物社/plan/01.jpg",
+    "images": {
+      "real": [],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/commercial/上海杂物社/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/上海杂物社/plan/01.jpg",
+          "name": "WPS图片"
+        }
+      ]
+    },
+    "imageCount": 1,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-美的colmo店SI升级",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "美的colmo店SI升级",
+    "city": "广州",
+    "area": "1092㎡",
+    "areaNum": 1092,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "商业",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "我们致力于构建一座‘理性美学的朝圣之地，AI科技的启蒙教堂’",
+    "cover": "assets/images/commercial/美的colmo店SI升级/render/01.jpg",
+    "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/render/01.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/01.jpg",
+          "name": "前台接待"
+        },
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/render/02.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/02.jpg",
+          "name": "场景化展厅1"
+        },
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/render/03.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/03.jpg",
+          "name": "场景化展厅2.jpg"
+        },
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/render/04.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/04.jpg",
+          "name": "场景化展厅3.jpg"
+        },
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/render/05.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/render/05.jpg",
+          "name": "门头"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/commercial/美的colmo店SI升级/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/美的colmo店SI升级/plan/01.jpg",
+          "name": "WPS图片"
+        }
+      ]
+    },
+    "imageCount": 6,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "residential-深圳福田叶首长广西祖宅自建房",
+    "category": "住宅",
+    "categoryKey": "residential",
+    "categoryLabel": "住宅 RESIDENTIAL",
+    "name": "深圳福田叶首长广西祖宅自建房",
+    "city": "广西",
+    "area": "1056㎡",
+    "areaNum": 1056,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "住宅",
+    "style": "新中式",
+    "role": "全案设计",
+    "description": "本项目为现代新中式乡村自建房，外立面采用白灰真石漆搭配深灰线条，\n简约利落，融合中式坡檐元素。室内延续新中式格调，木饰面与浅素材质结合，空间通透开阔。\n客餐厅、中堂礼序空间布局考究，兼顾家庭日常与待客礼仪，实现传统意蕴与现代居住舒适感的平衡。",
+    "cover": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/01.jpg",
+    "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/01.jpg",
+          "name": "Enscape_2026-01-23-17-44-50"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/02.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/02.jpg",
+          "name": "Enscape_2026-01-23-18-02-59"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/03.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/03.jpg",
+          "name": "Enscape_2026-01-23-18-06-12"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/04.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/04.jpg",
+          "name": "Enscape_2026-01-23-19-13-39"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/05.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/05.jpg",
+          "name": "厨房"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/06.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/06.jpg",
+          "name": "客厅1"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/07.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/07.jpg",
+          "name": "客厅2"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/08.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/08.jpg",
+          "name": "客厅3"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/render/09.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/render/09.jpg",
+          "name": "客厅4"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/plan/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/plan/01.jpg",
+          "name": "2026.1.16- 广西自建别墅平面_01"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/plan/02.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/plan/02.jpg",
+          "name": "2026.1.16- 广西自建别墅平面_02"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/plan/03.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/plan/03.jpg",
+          "name": "2026.1.16- 广西自建别墅平面_03"
+        },
+        {
+          "src": "assets/images/residential/深圳福田叶首长广西祖宅自建房/plan/04.jpg",
+          "thumb": "assets/thumbs/residential/深圳福田叶首长广西祖宅自建房/plan/04.jpg",
+          "name": "2026.1.16- 广西自建别墅平面_04"
+        }
+      ]
+    },
+    "imageCount": 13,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "residential-深圳上梅林雅苑",
+    "category": "住宅",
+    "categoryKey": "residential",
+    "categoryLabel": "住宅 RESIDENTIAL",
+    "name": "深圳上梅林雅苑",
+    "city": "深圳",
+    "area": "84㎡",
+    "areaNum": 84,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "住宅",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "本深圳上梅林雅苑私宅，以安顿心灵的居所为主题，打造闹市里贴近自然的禅意空间。\n采用木材、石材等天然材质，色调柔和温润。优化平面布局，客餐厅通透开阔，兼顾精细化收纳。\n融入全屋智慧康养系统，将自然意境、人文质感与现代智能居住需求相结合，营造诗意宜居的居家环境。",
+    "cover": "assets/images/residential/深圳上梅林雅苑/plan/01.jpg",
+    "thumb": "assets/thumbs/residential/深圳上梅林雅苑/plan/01.jpg",
+    "images": {
+      "real": [],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/residential/深圳上梅林雅苑/plan/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳上梅林雅苑/plan/01.jpg",
+          "name": "2025.08.04-深圳上梅林雅苑-3"
+        }
+      ]
+    },
+    "imageCount": 1,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "office-深圳蛇口时光广场招商城市展厅",
+    "category": "办公空间",
+    "categoryKey": "office",
+    "categoryLabel": "办公空间 OFFICE",
+    "name": "深圳蛇口时光广场招商城市展厅",
+    "city": "深圳",
+    "area": "1000㎡",
+    "areaNum": 1000,
+    "year": "2025年-至今",
+    "yearNum": 2025,
+    "type": "办公空间",
+    "style": "现代工业",
+    "role": "全案设计",
+    "description": "主题“于山海之城，创无界未来”",
+    "cover": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/01.jpg",
+    "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/01.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/01.jpg",
+          "name": "1-电梯厅"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/02.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/02.jpg",
+          "name": "2-入口展厅"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/03.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/03.jpg",
+          "name": "3-大会议室"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/04.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/04.jpg",
+          "name": "5-发布厅"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/05.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/05.jpg",
+          "name": "6-贵宾招待室"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/06.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/06.jpg",
+          "name": "8-小会议室"
+        },
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/render/07.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/render/07.jpg",
+          "name": "办公室"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/office/深圳蛇口时光广场招商城市展厅/plan/01.jpg",
+          "thumb": "assets/thumbs/office/深圳蛇口时光广场招商城市展厅/plan/01.jpg",
+          "name": "1"
+        }
+      ]
+    },
+    "imageCount": 8,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "residential-深圳雲頂翠峰三期B栋29私宅",
+    "category": "住宅",
+    "categoryKey": "residential",
+    "categoryLabel": "住宅 RESIDENTIAL",
+    "name": "深圳雲頂翠峰三期B栋29私宅",
+    "city": "深圳",
+    "area": "107㎡",
+    "areaNum": 107,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "住宅",
+    "style": "现代法式",
+    "role": "全案设计",
+    "description": "采用轻法式风格，以米白为主调，搭配清新豆绿色，营造柔和雅致氛围。\n客餐厅一体化，圆弧造型与无主灯设计提升空间质感。厨房运用撞色橱柜兼顾颜值与收纳。\n卧室着重柜体收纳，结合飘窗、背景墙优化居住体验。多功能房灵活实用，整体兼顾美学与居家功能性。",
+    "cover": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/01.jpg",
+    "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/01.jpg",
+          "name": "微信图片_20260812124133_12_487"
+        },
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/02.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/02.jpg",
+          "name": "微信图片_20260812124151_13_487"
+        },
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/03.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/03.jpg",
+          "name": "微信图片_20260812124203_14_487"
+        },
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/04.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/04.jpg",
+          "name": "微信图片_20260812124214_15_487"
+        },
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/real/05.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/real/05.jpg",
+          "name": "微信图片_20260812124222_16_487"
+        }
+      ],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/residential/深圳雲頂翠峰三期B栋29私宅/plan/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳雲頂翠峰三期B栋29私宅/plan/01.jpg",
+          "name": "2025.10.24-云顶翠峰B栋29C平面方案_01"
+        }
+      ]
+    },
+    "imageCount": 6,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "residential-深圳鸿荣源-西城上筑叶总私宅",
+    "category": "住宅",
+    "categoryKey": "residential",
+    "categoryLabel": "住宅 RESIDENTIAL",
+    "name": "深圳鸿荣源·西城上筑叶总私宅",
+    "city": "深圳",
+    "area": "116㎡",
+    "areaNum": 116,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "住宅",
+    "style": "现代极简",
+    "role": "全案设计",
+    "description": "极简主义并非简单的“减少”，而是通过克制的设计语言、精准的功能表达与纯粹的美学逻辑，\n重塑用户与空间的对话关系。它剥离冗余装饰，以留白赋予呼吸感，以材质原生质感传递温度，\n以几何结构的秩序性构建视觉平衡。在信息过载的时代，极简风格成为精神层面的“减法哲学\n”——用最少的设计干预，最大化功能与情感的共鸣，最终实现“少即是多”的深层体验升级。",
+    "cover": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/01.jpg",
+    "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/01.jpg",
+          "name": "360主卧"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/02.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/02.jpg",
+          "name": "360主卧2"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/03.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/03.jpg",
+          "name": "360儿童房"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/04.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/04.jpg",
+          "name": "360榻榻米"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/05.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/05.jpg",
+          "name": "卫生间"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/06.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/06.jpg",
+          "name": "卫生间2"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/07.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/07.jpg",
+          "name": "微信图片_20250815233436"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/08.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/08.jpg",
+          "name": "微信图片_20250815233500"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/09.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/09.jpg",
+          "name": "微信图片_20250815233525"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/10.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/10.jpg",
+          "name": "老人房"
+        },
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/render/11.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/render/11.jpg",
+          "name": "老人房2"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/residential/深圳鸿荣源-西城上筑叶总私宅/plan/01.jpg",
+          "thumb": "assets/thumbs/residential/深圳鸿荣源-西城上筑叶总私宅/plan/01.jpg",
+          "name": "鸿荣源·西城上筑3B 22-06-1"
+        }
+      ]
+    },
+    "imageCount": 12,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "model-龙岗新霖臻邑样板房设计",
+    "category": "样板间",
+    "categoryKey": "model",
+    "categoryLabel": "样板间 MODEL ROOM",
+    "name": "龙岗新霖臻邑样板房设计",
+    "city": "深圳",
+    "area": "105㎡",
+    "areaNum": 105,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "样板间",
+    "style": "轻奢现代",
+    "role": "全案设计",
+    "description": "鎏金岁月，沉淀后的美好岁月，高级且富有内涵。",
+    "cover": "assets/images/model/龙岗新霖臻邑样板房设计/render/01.jpg",
+    "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/01.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/01.jpg",
+          "name": "1-客厅"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/02.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/02.jpg",
+          "name": "2-阳台"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/03.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/03.jpg",
+          "name": "3-厨房"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/04.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/04.jpg",
+          "name": "4-儿童房2"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/05.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/05.jpg",
+          "name": "5-儿童房"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/06.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/06.jpg",
+          "name": "6-老人房"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/07.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/07.jpg",
+          "name": "7-主卧"
+        },
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/render/08.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/render/08.jpg",
+          "name": "8-主卫"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/model/龙岗新霖臻邑样板房设计/plan/01.jpg",
+          "thumb": "assets/thumbs/model/龙岗新霖臻邑样板房设计/plan/01.jpg",
+          "name": "B"
+        }
+      ]
+    },
+    "imageCount": 9,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "residential-珠海唐家湾名轩4栋29-2",
+    "category": "住宅",
+    "categoryKey": "residential",
+    "categoryLabel": "住宅 RESIDENTIAL",
+    "name": "珠海唐家湾名轩4栋29-2",
+    "city": "珠海",
+    "area": "265㎡",
+    "areaNum": 265,
+    "year": "2025-2026",
+    "yearNum": 2025,
+    "type": "住宅",
+    "style": "摩登东方",
+    "role": "全案设计",
+    "description": "项目位于香洲区唐家湾板块，临近港湾大道，交通便利，周边配套丰富，\n教育资源也较为充足，小区绿化率高，环境优美，设计语言为摩登东方，探索人与自然的关系\n，以时间，空间为纽带，将艺术、生活结合并再创作。",
+    "cover": "assets/images/residential/珠海唐家湾名轩4栋29-2/plan/01.jpg",
+    "thumb": "assets/thumbs/residential/珠海唐家湾名轩4栋29-2/plan/01.jpg",
+    "images": {
+      "real": [],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/residential/珠海唐家湾名轩4栋29-2/plan/01.jpg",
+          "thumb": "assets/thumbs/residential/珠海唐家湾名轩4栋29-2/plan/01.jpg",
+          "name": "2025.11.06-珠海唐家湾海名轩4栋29-02平面方案_01"
+        },
+        {
+          "src": "assets/images/residential/珠海唐家湾名轩4栋29-2/plan/02.jpg",
+          "thumb": "assets/thumbs/residential/珠海唐家湾名轩4栋29-2/plan/02.jpg",
+          "name": "WPS图片"
+        }
+      ]
+    },
+    "imageCount": 2,
+    "videos": [],
+    "vrLink": "https://vr.3d66.com/vr/index_detail_7668928.html"
+  },
+  {
+    "id": "exhibition-泉州百宏聚纤科技实业有限公司展厅设计",
+    "category": "展厅",
+    "categoryKey": "exhibition",
+    "categoryLabel": "展厅 EXHIBITION",
+    "name": "泉州百宏聚纤科技实业有限公司展厅设计",
+    "city": "福建泉州",
+    "area": "385㎡",
+    "areaNum": 385,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "企业展厅",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "企业展馆作为一个对外的品牌宣传 ，发声的一个场域 ，我们希望体验者徜徉在百宏集团的场域之中 ，\n通过富有故事性的展示空间所营造的情景和极具表现力的艺术装置所营造的情境，\n结合百宏集团各个行业的产品 ，智能智造的概念 ，去给我们的展厅赋予更高的艺术性和展现企业实力。",
+    "cover": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/01.jpg",
+    "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/01.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/01.jpg",
+          "name": "0fda7647d399be81183180cc3c29eed"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/02.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/02.jpg",
+          "name": "1"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/03.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/03.jpg",
+          "name": "11"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/04.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/04.jpg",
+          "name": "2"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/05.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/05.jpg",
+          "name": "22"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/06.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/06.jpg",
+          "name": "3"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/07.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/07.jpg",
+          "name": "33"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/08.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/08.jpg",
+          "name": "3_导入区1.0_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/09.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/09.jpg",
+          "name": "3_展示b区1.6_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/10.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/10.jpg",
+          "name": "3_展示C区1.009_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/11.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/11.jpg",
+          "name": "3_展示C区1.010_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/12.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/12.jpg",
+          "name": "3_展示C区1.6_04_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/13.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/13.jpg",
+          "name": "3_展示C区1.6_10_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/14.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/14.jpg",
+          "name": "3_展示D区1.6_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/15.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/15.jpg",
+          "name": "3_展示G区1.7_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/16.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/16.jpg",
+          "name": "3_添加1.2_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/17.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/17.jpg",
+          "name": "3_添加1.2_20000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/18.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/18.jpg",
+          "name": "3_添加1.6_0000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/19.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/19.jpg",
+          "name": "3_添加1.6_20000"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/20.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/20.jpg",
+          "name": "4"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/21.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/21.jpg",
+          "name": "44"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/22.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/22.jpg",
+          "name": "7158d31090e7ef2476a1ed3ca13a446"
+        },
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/23.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/render/23.jpg",
+          "name": "dcd57ad4b82bd7b1f19a09b91a8e271"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/plan/01.jpg",
+          "thumb": "assets/thumbs/exhibition/泉州百宏聚纤科技实业有限公司展厅设计/plan/01.jpg",
+          "name": "123"
+        }
+      ]
+    },
+    "imageCount": 24,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "office-越南河內龍边紅河集团总部",
+    "category": "办公空间",
+    "categoryKey": "office",
+    "categoryLabel": "办公空间 OFFICE",
+    "name": "越南河內龍边紅河集团总部",
+    "city": "越南",
+    "area": "980㎡",
+    "areaNum": 980,
+    "year": "2025",
+    "yearNum": 2025,
+    "type": "办公室",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "",
+    "cover": "assets/images/office/越南河內龍边紅河集团总部/render/01.jpg",
+    "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/01.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/01.jpg",
+          "name": "CFO"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/02.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/02.jpg",
+          "name": "前台接待"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/03.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/03.jpg",
+          "name": "培训室"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/04.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/04.jpg",
+          "name": "开放办公区"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/05.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/05.jpg",
+          "name": "联通会议室"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/06.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/06.jpg",
+          "name": "茶水区"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/07.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/07.jpg",
+          "name": "董事长"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/08.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/08.jpg",
+          "name": "财务室"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/09.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/09.jpg",
+          "name": "财务总监"
+        },
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/render/10.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/render/10.jpg",
+          "name": "贵宾接待室"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/office/越南河內龍边紅河集团总部/plan/01.jpg",
+          "thumb": "assets/thumbs/office/越南河內龍边紅河集团总部/plan/01.jpg",
+          "name": "WPS图片(2)"
+        }
+      ]
+    },
+    "imageCount": 11,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-越南河內Ocean-City-耙老师美陳",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "越南河內Ocean City 耙老师美陳",
+    "city": "越南河内",
+    "area": "88㎡",
+    "areaNum": 88,
+    "year": "2025年",
+    "yearNum": 2025,
+    "type": "商业",
+    "style": "现代国风",
+    "role": "全案设计",
+    "description": "本快闪店以耙老师（Mr.PA）熊猫 IP 为核心，围绕中秋国风潮玩主题，将传统戏曲国风、\n中秋民俗意象与现代潮玩商业空间进行融合创作。面向年轻潮玩消费群体，摒弃传统国风厚重沉闷的表达，\n以耙老师可爱诙谐的熊猫 IP 为叙事载体，打造一处集商品售卖、打卡拍照、IP 沉浸式体验为一体的商场快闪空间。",
+    "cover": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/render/01.jpg",
+    "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/render/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/01.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/01.jpg",
+          "name": "270a1ee98768bb3deafbd43344a22a24"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/02.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/02.jpg",
+          "name": "76829161fe0ebd813392c77676e3892d"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/03.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/03.jpg",
+          "name": "微信图片_2026-08-17_141824_631"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/04.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/04.jpg",
+          "name": "微信图片_2026-08-17_141853_894"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/05.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/05.jpg",
+          "name": "微信图片_2026-08-17_141857_790"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/06.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/06.jpg",
+          "name": "微信图片_2026-08-17_141901_446"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/07.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/07.jpg",
+          "name": "微信图片_2026-08-17_141905_567"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/08.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/08.jpg",
+          "name": "微信图片_2026-08-17_141908_054"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/09.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/09.jpg",
+          "name": "微信图片_2026-08-17_141910_735"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/real/10.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/real/10.jpg",
+          "name": "微信图片_2026-08-17_141913_144"
+        }
+      ],
+      "render": [
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/render/01.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/render/01.jpg",
+          "name": "1"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/render/02.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/render/02.jpg",
+          "name": "2"
+        },
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/render/03.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/render/03.jpg",
+          "name": "3"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/commercial/越南河內Ocean-City-耙老师美陳/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/越南河內Ocean-City-耙老师美陳/plan/01.jpg",
+          "name": "WPS图片"
+        }
+      ]
+    },
+    "imageCount": 14,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "office-香港德丰太古办公室",
+    "category": "办公空间",
+    "categoryKey": "office",
+    "categoryLabel": "办公空间 OFFICE",
+    "name": "香港德丰太古办公室",
+    "city": "香港",
+    "area": "2528㎡",
+    "areaNum": 2528,
+    "year": "2024",
+    "yearNum": 2024,
+    "type": "办公",
+    "style": "现代工业",
+    "role": "全案设计",
+    "description": "本项目为香港德丰办公室，立足开放创新的企业文化，打造复合型智慧办公空间。\n采用木饰面、环保材质，融入垂直绿植营造生态氛围。合理划分开放工位、独立办公室、会议及休闲活动区，\n依托维港景观，将科技、人文与自然相融，兼顾高效办公、弹性拓展与舒适体验。",
+    "cover": "assets/images/office/香港德丰太古办公室/render/01.jpg",
+    "thumb": "assets/thumbs/office/香港德丰太古办公室/render/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/01.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/01.jpg",
+          "name": "DSC_3290-已增强-NR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/02.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/02.jpg",
+          "name": "DSCF9220-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/03.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/03.jpg",
+          "name": "DSCF9226-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/04.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/04.jpg",
+          "name": "DSCF9256-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/05.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/05.jpg",
+          "name": "DSCF9268-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/06.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/06.jpg",
+          "name": "DSCF9280-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/07.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/07.jpg",
+          "name": "DSCF9307-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/08.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/08.jpg",
+          "name": "DSCF9316-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/09.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/09.jpg",
+          "name": "DSCF9328-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/10.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/10.jpg",
+          "name": "DSCF9331-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/11.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/11.jpg",
+          "name": "DSCF9355-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/12.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/12.jpg",
+          "name": "DSCF9379-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/13.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/13.jpg",
+          "name": "DSCF9382-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/14.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/14.jpg",
+          "name": "DSCF9409-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/15.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/15.jpg",
+          "name": "DSCF9421-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/16.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/16.jpg",
+          "name": "DSCF9427-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/17.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/17.jpg",
+          "name": "DSCF9430-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/18.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/18.jpg",
+          "name": "DSCF9442-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/19.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/19.jpg",
+          "name": "DSCF9445-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/20.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/20.jpg",
+          "name": "DSCF9454-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/21.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/21.jpg",
+          "name": "DSCF9472-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/22.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/22.jpg",
+          "name": "DSCF9484-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/23.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/23.jpg",
+          "name": "DSCF9499-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/24.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/24.jpg",
+          "name": "DSCF9508-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/25.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/25.jpg",
+          "name": "DSCF9511-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/26.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/26.jpg",
+          "name": "DSCF9517-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/27.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/27.jpg",
+          "name": "DSCF9535-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/28.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/28.jpg",
+          "name": "DSCF9565-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/29.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/29.jpg",
+          "name": "DSCF9586-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/30.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/30.jpg",
+          "name": "DSCF9598-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/31.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/31.jpg",
+          "name": "DSCF9607-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/32.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/32.jpg",
+          "name": "DSCF9637-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/33.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/33.jpg",
+          "name": "DSCF9640-HDR 全景图"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/34.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/34.jpg",
+          "name": "DSCF9646-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/35.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/35.jpg",
+          "name": "DSCF9655-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/36.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/36.jpg",
+          "name": "DSCF9673-HDR"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/real/37.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/real/37.jpg",
+          "name": "DSCF9682-HDR 全景图"
+        }
+      ],
+      "render": [
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/01.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/01.jpg",
+          "name": "CEO办公室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/02.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/02.jpg",
+          "name": "CFO办公室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/03.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/03.jpg",
+          "name": "CMO办公室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/04.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/04.jpg",
+          "name": "CPO办公室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/05.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/05.jpg",
+          "name": "中会议室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/06.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/06.jpg",
+          "name": "前台接待"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/07.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/07.jpg",
+          "name": "卫生间"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/08.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/08.jpg",
+          "name": "大会议室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/09.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/09.jpg",
+          "name": "小会议室1"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/10.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/10.jpg",
+          "name": "小会议室2"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/11.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/11.jpg",
+          "name": "小会议室3"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/12.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/12.jpg",
+          "name": "开放办公区1"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/13.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/13.jpg",
+          "name": "开放办公区2"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/14.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/14.jpg",
+          "name": "总经理办公室"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/15.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/15.jpg",
+          "name": "电梯厅"
+        },
+        {
+          "src": "assets/images/office/香港德丰太古办公室/render/16.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/render/16.jpg",
+          "name": "茶水间"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/office/香港德丰太古办公室/plan/01.jpg",
+          "thumb": "assets/thumbs/office/香港德丰太古办公室/plan/01.jpg",
+          "name": "（带文字）香港德丰新办公室平面系统图2024.10.24_01"
+        }
+      ]
+    },
+    "imageCount": 54,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "office-广州东莞德丰大厦",
+    "category": "办公空间",
+    "categoryKey": "office",
+    "categoryLabel": "办公空间 OFFICE",
+    "name": "广州东莞德丰大厦",
+    "city": "东莞",
+    "area": "24000㎡",
+    "areaNum": 24000,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "产业园",
+    "style": "现代工业",
+    "role": "硬装设计",
+    "description": "德丰新工厂 2# 综合大楼以 “呼吸生态圈” 为设计理念，打造科技人文的现代化产业办公载体。\n建筑外立面采用玻璃与铝板，搭配垂直绿化，实现绿色生态表达。室内分层布局大堂展厅、开放办公、会议、\n研发实验室、高管办公等功能。运用木饰面、水泥漆、金属板等材质，以简约工业风为主，\n融入企业符号，塑造高效协作、兼具展示、研发与办公一体的智慧产业空间。",
+    "cover": "assets/images/office/广州东莞德丰大厦/real/01.jpg",
+    "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/01.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/01.jpg",
+          "name": "微信图片_20251208221953_249_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/02.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/02.jpg",
+          "name": "微信图片_20251208221953_250_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/03.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/03.jpg",
+          "name": "微信图片_20251208221953_251_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/04.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/04.jpg",
+          "name": "微信图片_20251208221953_252_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/05.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/05.jpg",
+          "name": "微信图片_20251208221954_253_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/06.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/06.jpg",
+          "name": "微信图片_20251208221954_254_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/07.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/07.jpg",
+          "name": "微信图片_20251208221954_255_156"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/real/08.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/real/08.jpg",
+          "name": "微信图片_20251208221954_256_156"
+        }
+      ],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/01.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/01.jpg",
+          "name": "一层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/02.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/02.jpg",
+          "name": "七层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/03.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/03.jpg",
+          "name": "三A层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/04.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/04.jpg",
+          "name": "三层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/05.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/05.jpg",
+          "name": "二层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/06.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/06.jpg",
+          "name": "八层"
+        },
+        {
+          "src": "assets/images/office/广州东莞德丰大厦/plan/07.jpg",
+          "thumb": "assets/thumbs/office/广州东莞德丰大厦/plan/07.jpg",
+          "name": "六层"
+        }
+      ]
+    },
+    "imageCount": 15,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-中国花王酒业集团授权店",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "中国花王酒业集团授权店",
+    "city": "深圳",
+    "area": "100平米",
+    "areaNum": 100,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "商业",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "花王酒业授权店立足传统酒文化，采用现代时尚的设计语言。\n空间划分产品展示、品酒会客、办公仓储等功能区域，动线流畅。提取山川、\n赤水河等酿酒文化元素，以灰白为基底，搭配木格栅与特色灯光，融合展陈与品酒体验，\n兼顾多系列产品展示，打造兼具文化底蕴与现代质感的酒类体验门店。",
+    "cover": "assets/images/commercial/中国花王酒业集团授权店/plan/01.jpg",
+    "thumb": "assets/thumbs/commercial/中国花王酒业集团授权店/plan/01.jpg",
+    "images": {
+      "real": [],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/commercial/中国花王酒业集团授权店/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/中国花王酒业集团授权店/plan/01.jpg",
+          "name": "彩屏"
+        }
+      ]
+    },
+    "imageCount": 1,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "sales-深圳光明白花地产3号地块",
+    "category": "售楼部",
+    "categoryKey": "sales",
+    "categoryLabel": "售楼部 SALES CENTER",
+    "name": "深圳光明白花地产3号地块",
+    "city": "深圳",
+    "area": "337㎡",
+    "areaNum": 337,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "售楼部",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "润璟里销售中心以 “现代美学・光之艺术” 为设计主题，依托自然光塑造空间层次。\n整体采用米灰主调，融合木饰面、大理石等材质，划分接待、沙盘、水吧、洽谈及儿童区。\n借大面积玻璃引入光影，搭配艺术软装，动线流畅有序，打造简约雅致、兼具人文气息的售楼体验空间。",
+    "cover": "assets/images/sales/深圳光明白花地产3号地块/render/01.jpg",
+    "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/render/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/01.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/01.jpg",
+          "name": "微信图片_20231020151003_76_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/02.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/02.jpg",
+          "name": "微信图片_20231020151004_75_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/03.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/03.jpg",
+          "name": "微信图片_20231020151007_74_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/04.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/04.jpg",
+          "name": "微信图片_20231020151009_73_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/05.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/05.jpg",
+          "name": "微信图片_20231020151011_72_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/06.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/06.jpg",
+          "name": "微信图片_20231020151013_71_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/07.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/07.jpg",
+          "name": "微信图片_20231020151016_70_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/08.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/08.jpg",
+          "name": "微信图片_20231020151020_69_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/09.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/09.jpg",
+          "name": "微信图片_20231020151024_68_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/10.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/10.jpg",
+          "name": "微信图片_20231020151026_67_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/11.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/11.jpg",
+          "name": "微信图片_20231020151029_66_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/12.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/12.jpg",
+          "name": "微信图片_20231020151031_65_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/13.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/13.jpg",
+          "name": "微信图片_20231020151033_64_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/14.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/14.jpg",
+          "name": "微信图片_20231020151036_63_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/15.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/15.jpg",
+          "name": "微信图片_20231020151037_62_771"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/real/16.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/real/16.jpg",
+          "name": "微信图片_20231020151039_61_771"
+        }
+      ],
+      "render": [
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/render/01.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/render/01.jpg",
+          "name": "儿童区"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/render/02.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/render/02.jpg",
+          "name": "前台"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/render/03.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/render/03.jpg",
+          "name": "沙盘区"
+        },
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/render/04.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/render/04.jpg",
+          "name": "洽谈区"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/sales/深圳光明白花地产3号地块/plan/01.jpg",
+          "thumb": "assets/thumbs/sales/深圳光明白花地产3号地块/plan/01.jpg",
+          "name": "2023.08.22-深圳光明润璟里售楼部施工图_15"
+        }
+      ]
+    },
+    "imageCount": 21,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-深圳南山莲花广场蔡林记",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "深圳南山莲花广场蔡林记",
+    "city": "深圳",
+    "area": "80㎡",
+    "areaNum": 80,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "餐饮",
+    "style": "新中式",
+    "role": "全案设计",
+    "description": "蔡林记门店设计深挖湖北老字号文化，呼应热干面非遗底蕴。\n空间划分就餐区与后厨操作区，布局合理，动线顺畅。采用原木、穿孔板材等材质，\n搭配传统纹样灯盏、文化图文墙，融合传统中式韵味与现代餐饮质感，传递百年品牌记忆，\n营造兼具烟火气与文化感的用餐环境。",
+    "cover": "assets/images/commercial/深圳南山莲花广场蔡林记/render/01.jpg",
+    "thumb": "assets/thumbs/commercial/深圳南山莲花广场蔡林记/render/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/commercial/深圳南山莲花广场蔡林记/real/01.jpg",
+          "thumb": "assets/thumbs/commercial/深圳南山莲花广场蔡林记/real/01.jpg",
+          "name": "65cf4005aac241f92f8feb504e186fea"
+        }
+      ],
+      "render": [
+        {
+          "src": "assets/images/commercial/深圳南山莲花广场蔡林记/render/01.jpg",
+          "thumb": "assets/thumbs/commercial/深圳南山莲花广场蔡林记/render/01.jpg",
+          "name": "室内"
+        },
+        {
+          "src": "assets/images/commercial/深圳南山莲花广场蔡林记/render/02.jpg",
+          "thumb": "assets/thumbs/commercial/深圳南山莲花广场蔡林记/render/02.jpg",
+          "name": "门头 (1)"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/commercial/深圳南山莲花广场蔡林记/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/深圳南山莲花广场蔡林记/plan/01.jpg",
+          "name": "WPS图片"
+        }
+      ]
+    },
+    "imageCount": 4,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-深圳大浪梵思诺街区",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "深圳大浪梵思诺街区",
+    "city": "深圳",
+    "area": "140㎡",
+    "areaNum": 140,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "商业",
+    "style": "现代轻奢",
+    "role": "全案设计",
+    "description": "梵思诺品牌形象店以 “大地呼吸” 为设计内核，\n融合金木石材质，演绎东方克制美学。空间划分橱窗、商品、胶囊系列展示、\n休息、收银、试衣仓储功能区，动线流畅。运用木饰面、夯土板、墙布等材质，\n搭配景观造景，兼顾环保与体验，契合目标客群优雅质感的生活追求。",
+    "cover": "assets/images/commercial/深圳大浪梵思诺街区/render/01.jpg",
+    "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/01.jpg",
+    "images": {
+      "real": [],
+      "render": [
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/01.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/01.jpg",
+          "name": "前台一"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/02.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/02.jpg",
+          "name": "前台二"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/03.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/03.jpg",
+          "name": "展示区一"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/04.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/04.jpg",
+          "name": "展示区二"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/05.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/05.jpg",
+          "name": "胶囊区一"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/06.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/06.jpg",
+          "name": "胶囊区二"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/07.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/07.jpg",
+          "name": "门头一"
+        },
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/render/08.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/render/08.jpg",
+          "name": "门头二"
+        }
+      ],
+      "plan": [
+        {
+          "src": "assets/images/commercial/深圳大浪梵思诺街区/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/深圳大浪梵思诺街区/plan/01.jpg",
+          "name": "1"
+        }
+      ]
+    },
+    "imageCount": 9,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "model-深圳玖裕茗院精装房",
+    "category": "样板间",
+    "categoryKey": "model",
+    "categoryLabel": "样板间 MODEL ROOM",
+    "name": "深圳玖裕茗院精装房",
+    "city": "深圳",
+    "area": "702㎡",
+    "areaNum": 702,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "样板间",
+    "style": "现代",
+    "role": "全案设计",
+    "description": "玖裕茗院人才住房采用简约现代精装风格，以中性色调为主。\n户型布局紧凑实用，优化空间动线，客卧选用乳胶漆搭配地砖，厨卫采用瓷砖与铝扣板吊顶。\n侧重耐久易维护，配齐厨卫柜体与基础洁具电器，兼顾居住舒适度，满足人才住房实用型居住需求。",
+    "cover": "assets/images/model/深圳玖裕茗院精装房/real/01.jpg",
+    "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/01.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/01.jpg",
+          "name": "微信图片_20240202110625_754_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/02.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/02.jpg",
+          "name": "微信图片_20240202110654_753_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/03.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/03.jpg",
+          "name": "微信图片_20240202111255_752_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/04.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/04.jpg",
+          "name": "微信图片_20240202111258_751_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/05.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/05.jpg",
+          "name": "微信图片_20240202111303_750_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/06.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/06.jpg",
+          "name": "微信图片_20240202111306_749_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/07.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/07.jpg",
+          "name": "微信图片_20240202111310_748_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/08.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/08.jpg",
+          "name": "微信图片_20240202111313_747_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/09.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/09.jpg",
+          "name": "微信图片_20240202111316_746_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/10.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/10.jpg",
+          "name": "微信图片_20240202111318_745_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/11.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/11.jpg",
+          "name": "微信图片_20240202111320_744_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/12.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/12.jpg",
+          "name": "微信图片_20240202111321_743_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/13.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/13.jpg",
+          "name": "微信图片_20240202111323_742_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/14.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/14.jpg",
+          "name": "微信图片_20240202111328_741_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/15.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/15.jpg",
+          "name": "微信图片_20240202111330_740_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/16.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/16.jpg",
+          "name": "微信图片_20240202111332_739_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/17.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/17.jpg",
+          "name": "微信图片_20240202111333_738_18"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/real/18.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/real/18.jpg",
+          "name": "微信图片_20240202111335_737_18"
+        }
+      ],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/plan/01.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/plan/01.jpg",
+          "name": "B1"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/plan/02.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/plan/02.jpg",
+          "name": "B1A"
+        },
+        {
+          "src": "assets/images/model/深圳玖裕茗院精装房/plan/03.jpg",
+          "thumb": "assets/thumbs/model/深圳玖裕茗院精装房/plan/03.jpg",
+          "name": "总图"
+        }
+      ]
+    },
+    "imageCount": 21,
+    "videos": [],
+    "vrLink": null
+  },
+  {
+    "id": "commercial-香港尖沙咀Unibuy",
+    "category": "商业",
+    "categoryKey": "commercial",
+    "categoryLabel": "商业空间 COMMERCIAL",
+    "name": "香港尖沙咀Unibuy",
+    "city": "香港",
+    "area": "816㎡",
+    "areaNum": 816,
+    "year": "2023",
+    "yearNum": 2023,
+    "type": "商业",
+    "style": "现代极简",
+    "role": "全案设计",
+    "description": "以 “境由光生，情以境异” 为设计主题，打造现代时尚柔和的新零售空间。\n空间划分精品、皮具、鞋服售卖、办公、试衣、仓储等功能区，以纯白为基底，\n运用曲线造型与氛围灯光，搭配潮流艺术装置，兼顾商业展示与实用运营需求。",
+    "cover": "assets/images/commercial/香港尖沙咀Unibuy/real/01.jpg",
+    "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/01.jpg",
+    "images": {
+      "real": [
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/01.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/01.jpg",
+          "name": "微信图片_20230808145255_101_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/02.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/02.jpg",
+          "name": "微信图片_20230808145259_100_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/03.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/03.jpg",
+          "name": "微信图片_20230808145305_99_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/04.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/04.jpg",
+          "name": "微信图片_20230808145309_98_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/05.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/05.jpg",
+          "name": "微信图片_20230808145314_97_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/06.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/06.jpg",
+          "name": "微信图片_20230808145319_96_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/07.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/07.jpg",
+          "name": "微信图片_20230808145324_95_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/08.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/08.jpg",
+          "name": "微信图片_20230808145327_94_303"
+        },
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/real/09.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/real/09.jpg",
+          "name": "微信图片_20230808145331_93_303"
+        }
+      ],
+      "render": [],
+      "plan": [
+        {
+          "src": "assets/images/commercial/香港尖沙咀Unibuy/plan/01.jpg",
+          "thumb": "assets/thumbs/commercial/香港尖沙咀Unibuy/plan/01.jpg",
+          "name": "香港尖沙咀Unibuy图纸集合-Model_01"
+        }
+      ]
+    },
+    "imageCount": 10,
+    "videos": [
+      {
+        "src": "assets/videos/commercial_香港尖沙咀Unibuy_4c6c4ac13c13c91cae35a78f4bcc3540.mp4",
+        "name": "4c6c4ac13c13c91cae35a78f4bcc3540"
+      }
+    ],
+    "vrLink": null
+  }
+]
